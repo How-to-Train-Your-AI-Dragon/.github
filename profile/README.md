@@ -45,11 +45,11 @@ We're developing an intelligent HR filtering system that:
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLaMA](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=meta&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-412991?style=for-the-badge&logo=meta&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF5E00?style=for-the-badge&logo=gradio&logoColor=white)
+<!--- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
 </div>
 
