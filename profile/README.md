@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/logo-ai-dragon.jpg" alt="AI Dragon Logo" width="300"/>
   
-  # Group Name: How to Train Your AI Dragon
+  # Group Name: How to Train Your AI Dragon (Group 1)
   
   <p>
     <em>Project Title: Revolutionizing HR Interview Processes with AI</em>
